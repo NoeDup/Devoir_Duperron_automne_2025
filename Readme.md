@@ -1,8 +1,8 @@
 # Devoir Certificat en Humanités numériques (UNIGE)
 ## Cours "Bibliothèques numériques, I. Gestion de projet (conception, partage, archivage)", Automne 2025, par Simon Gabay
 
-Auteur: Noémi Duperron
-Date: Mars 2026
+- Auteur: Noémi Duperron
+- Date: Mars 2026
 
 ### Contenu
 
