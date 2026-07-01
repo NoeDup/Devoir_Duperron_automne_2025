@@ -13,3 +13,6 @@
 
 - Pour la transcription: eScriptorium (instance UNIGE)
 - Pour la documentation du processus: Overleaf 
+
+### Droits de réutilisation
+L'auteur du travail n'a pas les droits sur les images. Elles sont donc sous droits réservés.
