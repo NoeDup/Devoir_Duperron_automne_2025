@@ -52,6 +52,20 @@
                    ID="eSc_textblock_6635a8a3"
                    TAGREFS="BT12">
           <Shape><Polygon POINTS="1684 310 1764 292 1970 386 2009 302 1983 291 2004 293 2005 302 2077 282 1972 337 1837 7156 219 7173 300 6095 405 3930 371 1840 422 1769 439 489 441 491 526 362 1533 298 1592 296"/></Shape>
+          <TextLine ID="eSc_line_6a9b5d41"
+                    BASELINE="638 434 1725 399" 
+                    HPOS="619"
+                    VPOS="322"
+                    WIDTH="1104"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="817 348 753 348 690 354 619 353 633 450 633 437 1721 421 1722 322 1710 418 1716 418 1723 399 1712 324 893 335 880 342"/></Shape>
+            <String CONTENT="To the PRINTER."
+                    HPOS="619"
+                    VPOS="322"
+                    WIDTH="1104"
+                    HEIGHT="128"
+                    ></String>
+          </TextLine>
           <TextLine ID="eSc_line_eebd20b0"
                     TAGREFS="LT1199"
                     BASELINE="574 460 1917 426" 
@@ -65,20 +79,6 @@
                     VPOS="396"
                     WIDTH="1438"
                     HEIGHT="171"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_6a9b5d41"
-                    BASELINE="638 434 1725 399" 
-                    HPOS="619"
-                    VPOS="322"
-                    WIDTH="1104"
-                    HEIGHT="128">
-            <Shape><Polygon POINTS="817 348 753 348 690 354 619 353 633 450 633 437 1721 421 1722 322 1710 418 1716 418 1723 399 1712 324 893 335 880 342"/></Shape>
-            <String CONTENT="To the PRINTER."
-                    HPOS="619"
-                    VPOS="322"
-                    WIDTH="1104"
-                    HEIGHT="128"
                     ></String>
           </TextLine>
           <TextLine ID="eSc_line_04eb37fe"
@@ -846,6 +846,20 @@
                     HEIGHT="93"
                     ></String>
           </TextLine>
+          <TextLine ID="eSc_line_dbf19b41"
+                    BASELINE="380 5248 386 5213 396 5119 408 5024 427 4926 427 4879 437 4832 452 4750 471 4655" 
+                    HPOS="342"
+                    VPOS="4636"
+                    WIDTH="158"
+                    HEIGHT="608">
+            <Shape><Polygon POINTS="411 4674 443 4743 361 4788 399 4864 380 4921 392 4990 348 5041 380 5117 342 5174 367 5237 373 5244 392 5237 500 4655 468 4655 367 4636 367 4636 411 4674"/></Shape>
+            <String CONTENT="given us: there is more merit in the women. Pa-"
+                    HPOS="342"
+                    VPOS="4636"
+                    WIDTH="158"
+                    HEIGHT="608"
+                    ></String>
+          </TextLine>
           <TextLine ID="eSc_line_58717c17"
                     BASELINE="342 6206 1820 6219" 
                     HPOS="337"
@@ -853,7 +867,7 @@
                     WIDTH="1483"
                     HEIGHT="97">
             <Shape><Polygon POINTS="1735 6156 1693 6156 1651 6156 1609 6156 1566 6156 1524 6156 1482 6156 1440 6156 1398 6156 1355 6156 1313 6156 1271 6156 1229 6156 1186 6156 1144 6156 1123 6151 342 6151 342 6206 337 6240 1811 6248 1820 6219 1816 6156 1778 6151 1778 6156"/></Shape>
-            <String CONTENT="tures might possibly have as much success as some of"
+            <String CONTENT="troclus must have been brought all dirty to Achilles,"
                     HPOS="337"
                     VPOS="6151"
                     WIDTH="1483"
@@ -868,7 +882,7 @@
                     WIDTH="1487"
                     HEIGHT="140">
             <Shape><Polygon POINTS="1431 6219 1389 6219 1347 6219 1334 6215 1072 6215 1051 6215 1009 6215 967 6215 924 6215 882 6215 840 6215 806 6210 701 6210 671 6210 629 6210 587 6210 544 6210 502 6210 460 6210 418 6210 375 6210 371 6206 333 6206 333 6265 329 6312 1444 6346 1448 6346 1811 6324 1816 6282 1816 6223 1444 6219 1431 6219"/></Shape>
-            <String CONTENT="Mr. Hogarth&#x27;s; and Mr. Golder may very likely do"
+            <String CONTENT="and he is not likely to have staid to have had him"
                     HPOS="329"
                     VPOS="6206"
                     WIDTH="1487"
@@ -883,7 +897,7 @@
                     WIDTH="447"
                     HEIGHT="102">
             <Shape><Polygon POINTS="325 6337 325 6379 768 6388 772 6337 772 6286 325 6286 325 6337"/></Shape>
-            <String CONTENT="for the purpose."
+            <String CONTENT="washed before he lamented over him. The painter"
                     HPOS="325"
                     VPOS="6286"
                     WIDTH="447"
@@ -898,7 +912,7 @@
                     WIDTH="1432"
                     HEIGHT="131">
             <Shape><Polygon POINTS="768 6341 726 6341 684 6341 641 6341 599 6341 557 6341 515 6341 485 6341 388 6341 388 6400 384 6443 1807 6451 1816 6409 1807 6324 1638 6350 1571 6324 1566 6324 1562 6324 1347 6350 1309 6324 1305 6324 1300 6324 1296 6324 1136 6341 1013 6320 1009 6320 772 6329 768 6341"/></Shape>
-            <String CONTENT="No. 145, 146. The Pingo&#x27;s are known to be excel-"
+            <String CONTENT="possibly never saw a dead body-he had heard it was"
                     HPOS="384"
                     VPOS="6320"
                     WIDTH="1432"
@@ -913,7 +927,7 @@
                     WIDTH="355"
                     HEIGHT="119">
             <Shape><Polygon POINTS="291 6430 295 6476 295 6519 646 6514 646 6472 637 6422 308 6400 304 6400 291 6430"/></Shape>
-            <String CONTENT="lent artists."
+            <String CONTENT="of a pale colour, and therefore he made it so; but a"
                     HPOS="291"
                     VPOS="6400"
                     WIDTH="355"
@@ -928,7 +942,7 @@
                     WIDTH="1440"
                     HEIGHT="119">
             <Shape><Polygon POINTS="371 6574 1811 6569 1811 6540 1811 6481 1664 6455 1659 6455 1398 6476 1376 6460 1376 6455 1372 6455 1368 6455 1169 6455 1165 6455 1161 6455 1119 6476 899 6455 895 6455 891 6455 840 6481 371 6481 371 6540"/></Shape>
-            <String CONTENT="No. 152, 153. Miss Reid succeeds as usual, and"
+            <String CONTENT="body killed in action, and that has not been before"
                     HPOS="371"
                     VPOS="6455"
                     WIDTH="1440"
@@ -943,7 +957,7 @@
                     WIDTH="1504"
                     HEIGHT="114">
             <Shape><Polygon POINTS="764 6544 722 6544 679 6544 637 6544 595 6544 553 6544 511 6544 468 6544 426 6544 384 6544 380 6540 299 6540 304 6607 304 6654 1799 6650 1803 6603 1795 6552 798 6544 764 6544"/></Shape>
-            <String CONTENT="draws with a delicacy that shews how well her sex is"
+            <String CONTENT="made palid by sickness, would not yet be destitute"
                     HPOS="299"
                     VPOS="6540"
                     WIDTH="1504"
@@ -958,7 +972,7 @@
                     WIDTH="1516"
                     HEIGHT="97">
             <Shape><Polygon POINTS="295 6675 295 6709 1799 6713 1807 6666 1795 6616 291 6620 295 6675"/></Shape>
-            <String CONTENT="calculated to excel in this amiable act. Of the two"
+            <String CONTENT="of the colour of life, though the muscles and veins"
                     HPOS="291"
                     VPOS="6616"
                     WIDTH="1516"
@@ -973,7 +987,7 @@
                     WIDTH="1516"
                     HEIGHT="114">
             <Shape><Polygon POINTS="295 6742 295 6789 1811 6776 1811 6742 1811 6688 295 6675 295 6742"/></Shape>
-            <String CONTENT="little boys the eldest seems to take after the father,"
+            <String CONTENT="would lose their tensions. The blood does not turn"
                     HPOS="295"
                     VPOS="6675"
                     WIDTH="1516"
@@ -988,7 +1002,7 @@
                     WIDTH="1504"
                     HEIGHT="101">
             <Shape><Polygon POINTS="299 6810 295 6852 1795 6848 1799 6814 1795 6755 299 6751 299 6810"/></Shape>
-            <String CONTENT="and look almost as heavy as himself; and the young-"
+            <String CONTENT="white, because its circulation is stopped, nor the"
                     HPOS="295"
                     VPOS="6751"
                     WIDTH="1504"
@@ -1003,28 +1017,14 @@
                    ID="eSc_textblock_a2e013e0"
                    TAGREFS="BT12">
           <Shape><Polygon POINTS="2672 6149 2672 7193 4510 7193 4510 6149"/></Shape>
-          <TextLine ID="eSc_line_d37c9bea"
-                    BASELINE="2859 6491 4381 6602" 
-                    HPOS="2850"
-                    VPOS="6438"
-                    WIDTH="1548"
-                    HEIGHT="195">
-            <Shape><Polygon POINTS="2850 6517 3921 6591 3958 6589 4029 6600 4059 6595 4140 6598 4200 6605 4254 6605 4291 6606 4301 6633 4352 6623 4352 6618 4398 6532 2871 6438 2857 6485"/></Shape>
-            <String CONTENT="A fruit piece of two peaches and a nectarine upon"
-                    HPOS="2850"
-                    VPOS="6438"
-                    WIDTH="1548"
-                    HEIGHT="195"
-                    ></String>
-          </TextLine>
           <TextLine ID="eSc_line_74541afc"
                     BASELINE="2803 6549 3214 6583 4342 6675" 
                     HPOS="2793"
                     VPOS="6472"
                     WIDTH="1546"
                     HEIGHT="247">
-            <Shape><Polygon POINTS="4320 6599 4257 6593 4194 6586 4130 6586 4067 6580 4003 6574 3940 6567 3877 6567 3813 6561 3750 6555 3687 6548 3623 6548 3560 6542 3497 6536 3433 6529 3370 6529 3307 6523 3243 6517 3180 6510 3116 6510 3053 6504 2990 6498 2926 6491 2863 6491 2857 6472 2800 6472 2800 6548 2793 6567 3231 6631 3237 6631 3484 6618 3547 6662 3554 6662 3560 6662 3566 6662 3997 6656 4060 6700 4117 6707 4149 6707 4327 6719 4339 6669 4339 6599 4320 6599"/></Shape>
-            <String CONTENT="a real pewter plate, is most admirable. There for"
+            <Shape><Polygon POINTS="4257 6593 4194 6586 4130 6586 4067 6580 4003 6574 3940 6567 3877 6567 3813 6561 3750 6555 3687 6548 3623 6548 3560 6542 3497 6536 3433 6529 3370 6529 3307 6523 3243 6517 3180 6510 3116 6510 3053 6504 2990 6498 2926 6491 2863 6491 2857 6472 2800 6472 2800 6548 2793 6567 3231 6631 3237 6631 3484 6618 3547 6662 3554 6662 3560 6662 3566 6662 3997 6656 4060 6700 4117 6707 4149 6707 4327 6719 4339 6669 4339 6599 4320 6599"/></Shape>
+            <String CONTENT="tures might possibly have as much success as some of"
                     HPOS="2793"
                     VPOS="6472"
                     WIDTH="1546"
@@ -1038,11 +1038,25 @@
                     WIDTH="1516"
                     HEIGHT="202">
             <Shape><Polygon POINTS="2812 6637 4314 6757 4320 6732 4325 6672 2809 6555 2819 6612"/></Shape>
-            <String CONTENT="no number to it as I could see; but the artist need"
+            <String CONTENT="Mr. Hogarth&#x27;s; and Mr. Golder may very likely do"
                     HPOS="2809"
                     VPOS="6555"
                     WIDTH="1516"
                     HEIGHT="202"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c268330f"
+                    BASELINE="3785 6601 3779 6559" 
+                    HPOS="3642"
+                    VPOS="6548"
+                    WIDTH="165"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="3807 6548 3775 6555 3642 6567 3642 6599 3693 6605 3782 6599 3807 6593 3807 6548 3807 6548"/></Shape>
+            <String CONTENT="for the purpose."
+                    HPOS="3642"
+                    VPOS="6548"
+                    WIDTH="165"
+                    HEIGHT="57"
                     ></String>
           </TextLine>
           <TextLine ID="eSc_line_df7db6db"
@@ -1053,7 +1067,7 @@
                     WIDTH="1489"
                     HEIGHT="182">
             <Shape><Polygon POINTS="2825 6713 3465 6745 3568 6751 3590 6755 3602 6755 3690 6755 4292 6783 4301 6776 4271 6728 2820 6601 2812 6657"/></Shape>
-            <String CONTENT="not have been ashamed to have published his name"
+            <String CONTENT="No. 145, 146. The Pingo&#x27;s are known to be excel-"
                     HPOS="2812"
                     VPOS="6601"
                     WIDTH="1489"
@@ -1068,7 +1082,7 @@
                     WIDTH="1502"
                     HEIGHT="189">
             <Shape><Polygon POINTS="4225 6776 4162 6770 4098 6764 4035 6757 3972 6751 3908 6751 3845 6745 3782 6738 3718 6732 3655 6732 3592 6726 3528 6719 3465 6713 3402 6713 3338 6707 3275 6700 3212 6694 3148 6688 3085 6688 3021 6681 2958 6675 2895 6669 2831 6669 2831 6726 2825 6757 4010 6841 4063 6850 4320 6858 4327 6852 4327 6776 4289 6770 4289 6776"/></Shape>
-            <String CONTENT="nor the socierty to have numbered it in this cata-"
+            <String CONTENT="lent artists."
                     HPOS="2825"
                     VPOS="6669"
                     WIDTH="1502"
@@ -1082,7 +1096,7 @@
                     WIDTH="196"
                     HEIGHT="95">
             <Shape><Polygon POINTS="2939 6738 2876 6732 2869 6726 2812 6726 2812 6802 2806 6821 2996 6821 3002 6808 2996 6738 2939 6738"/></Shape>
-            <String CONTENT="logue."
+            <String CONTENT="No. 152, 153. Miss Reid succeeds as usual, and"
                     HPOS="2806"
                     VPOS="6726"
                     WIDTH="196"
@@ -1097,7 +1111,7 @@
                     WIDTH="462"
                     HEIGHT="297">
             <Shape><Polygon POINTS="2869 6732 2863 6726 2806 6726 2806 6852 2800 7011 3250 7023 3262 6865 3262 6770 2869 6732 2869 6732"/></Shape>
-            <String CONTENT="From the Temple."
+            <String CONTENT="draws with a delicacy that shews how well her sex is"
                     HPOS="2800"
                     VPOS="6726"
                     WIDTH="462"
@@ -1111,11 +1125,25 @@
                     WIDTH="729"
                     HEIGHT="304">
             <Shape><Polygon POINTS="4289 6852 4257 6846 4098 6840 4098 6840 4086 6833 3592 6808 3592 6935 3579 7080 4289 7112 4308 6973 4308 6852 4289 6852"/></Shape>
-            <String CONTENT="T-o-"
+            <String CONTENT="calculated to excel in this amiable act. Of the two"
                     HPOS="3579"
                     VPOS="6808"
                     WIDTH="729"
                     HEIGHT="304"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d37c9bea"
+                    BASELINE="2859 6491 4381 6602" 
+                    HPOS="2850"
+                    VPOS="6438"
+                    WIDTH="1548"
+                    HEIGHT="195">
+            <Shape><Polygon POINTS="2850 6517 3921 6591 3958 6589 4029 6600 4059 6595 4140 6598 4200 6605 4254 6605 4291 6606 4301 6633 4352 6623 4352 6618 4398 6532 2871 6438 2857 6485"/></Shape>
+            <String CONTENT="From the Temple."
+                    HPOS="2850"
+                    VPOS="6438"
+                    WIDTH="1548"
+                    HEIGHT="195"
                     ></String>
           </TextLine>
         </TextBlock>
@@ -1152,7 +1180,7 @@
                     WIDTH="1448"
                     HEIGHT="88">
             <Shape><Polygon POINTS="435 3698 435 3736 1883 3728 1883 3698 1883 3648 435 3648 435 3698"/></Shape>
-            <String CONTENT="given us: there is more merit in the women. Pa-"
+            <String CONTENT="skin lose its transparency. The legs are said not to"
                     HPOS="435"
                     VPOS="3648"
                     WIDTH="1448"
@@ -1167,7 +1195,7 @@
                     WIDTH="1453"
                     HEIGHT="114">
             <Shape><Polygon POINTS="1858 3702 1816 3702 1773 3702 1731 3702 1689 3702 1647 3702 1604 3702 1562 3702 1520 3702 1478 3702 1436 3702 1393 3702 1351 3702 1309 3702 1267 3702 1224 3702 1182 3702 1140 3702 1098 3702 1055 3702 1013 3702 971 3702 929 3702 886 3702 844 3702 802 3702 760 3702 718 3702 675 3702 633 3702 591 3702 549 3702 506 3702 464 3702 456 3690 422 3690 422 3753 418 3795 1862 3804 1871 3762 1866 3702 1858 3702"/></Shape>
-            <String CONTENT="troclus must have been brought all dirty to Achilles,"
+            <String CONTENT="hang like those of a dead body, but they will hang"
                     HPOS="418"
                     VPOS="3690"
                     WIDTH="1453"
@@ -1182,7 +1210,7 @@
                     WIDTH="1457"
                     HEIGHT="93">
             <Shape><Polygon POINTS="426 3821 422 3859 1871 3863 1879 3825 1875 3774 426 3770 426 3821"/></Shape>
-            <String CONTENT="and he is not likely to have staid to have had him"
+            <String CONTENT="just as they are put. He is placed upin armour, as"
                     HPOS="422"
                     VPOS="3770"
                     WIDTH="1457"
@@ -1197,7 +1225,7 @@
                     WIDTH="1461"
                     HEIGHT="92">
             <Shape><Polygon POINTS="422 3888 422 3930 1883 3918 1883 3888 1883 3838 422 3838 422 3888"/></Shape>
-            <String CONTENT="washed before he lamented over him. The painter"
+            <String CONTENT="if it was just taken off his body; but that was left"
                     HPOS="422"
                     VPOS="3838"
                     WIDTH="1461"
@@ -1212,7 +1240,7 @@
                     WIDTH="1465"
                     HEIGHT="89">
             <Shape><Polygon POINTS="1816 3892 1773 3892 1731 3892 1689 3892 1647 3892 1604 3892 1562 3892 1520 3892 1478 3892 1436 3892 1393 3892 1351 3892 1309 3892 1267 3892 1224 3892 1182 3892 1140 3892 1098 3892 1055 3892 1013 3892 971 3892 929 3892 886 3892 844 3892 802 3892 760 3892 718 3892 675 3892 633 3892 591 3892 549 3892 506 3892 464 3892 422 3892 422 3947 418 3981 1879 3981 1883 3956 1879 3892 1858 3892 1816 3892"/></Shape>
-            <String CONTENT="possibly never saw a dead body-he had heard it was"
+            <String CONTENT="in the field: neither could Achilles be said to have"
                     HPOS="418"
                     VPOS="3892"
                     WIDTH="1465"
@@ -1227,7 +1255,7 @@
                     WIDTH="1449"
                     HEIGHT="88">
             <Shape><Polygon POINTS="426 4011 422 4040 1862 4044 1871 4015 1866 3960 426 3956 426 4011"/></Shape>
-            <String CONTENT="of a pale colour, and therefore he made it so; but a"
+            <String CONTENT="his own in his tent, as it was his he had lent to Pa-"
                     HPOS="422"
                     VPOS="3956"
                     WIDTH="1449"
@@ -1242,7 +1270,7 @@
                     WIDTH="1466"
                     HEIGHT="85">
             <Shape><Polygon POINTS="413 4070 409 4104 1871 4104 1875 4078 1871 4028 413 4019 413 4070"/></Shape>
-            <String CONTENT="body killed in action, and that has not been before"
+            <String CONTENT="troclus. There wew no warriors at the siege of"
                     HPOS="409"
                     VPOS="4019"
                     WIDTH="1466"
@@ -1257,7 +1285,7 @@
                     WIDTH="1457"
                     HEIGHT="93">
             <Shape><Polygon POINTS="1858 4078 1816 4078 1773 4078 1731 4078 1689 4078 1647 4078 1604 4078 1562 4078 1520 4078 1478 4078 1436 4078 1393 4078 1351 4078 1309 4078 1267 4078 1224 4078 1182 4078 422 4078 422 4133 418 4171 1871 4171 1875 4142 1871 4078 1858 4078"/></Shape>
-            <String CONTENT="made palid by sickness, would not yet be destitute"
+            <String CONTENT="Troy on horseback, though there were charioteers."
                     HPOS="418"
                     VPOS="4078"
                     WIDTH="1457"
@@ -1272,7 +1300,7 @@
                     WIDTH="1457"
                     HEIGHT="97">
             <Shape><Polygon POINTS="413 4192 409 4230 1858 4239 1866 4201 1862 4146 413 4142 413 4192"/></Shape>
-            <String CONTENT="of the colour of life, though the muscles and veins"
+            <String CONTENT="Quere, how far is it allowable for a painter, when he"
                     HPOS="409"
                     VPOS="4142"
                     WIDTH="1457"
@@ -1287,7 +1315,7 @@
                     WIDTH="1466"
                     HEIGHT="101">
             <Shape><Polygon POINTS="409 4256 405 4281 1862 4302 1871 4264 1866 4205 409 4201 409 4256"/></Shape>
-            <String CONTENT="would lose their tensions. The blood does not turn"
+            <String CONTENT="vies in the scene he undertakes with a poet, to de-"
                     HPOS="405"
                     VPOS="4201"
                     WIDTH="1466"
@@ -1302,7 +1330,7 @@
                     WIDTH="1453"
                     HEIGHT="97">
             <Shape><Polygon POINTS="1347 4264 1305 4264 1262 4264 1220 4264 1178 4264 1157 4260 899 4260 882 4260 840 4260 798 4260 756 4260 713 4260 671 4260 629 4260 587 4260 544 4260 502 4260 460 4260 418 4260 418 4310 413 4348 1858 4357 1866 4327 1862 4268 1381 4264 1347 4264"/></Shape>
-            <String CONTENT="white, because its circulation is stopped, nor the"
+            <String CONTENT="part from the description of the latter?"
                     HPOS="413"
                     VPOS="4260"
                     WIDTH="1453"
@@ -1317,7 +1345,7 @@
                     WIDTH="1461"
                     HEIGHT="101">
             <Shape><Polygon POINTS="409 4378 405 4408 1858 4420 1866 4386 1862 4332 409 4319 409 4378"/></Shape>
-            <String CONTENT="skin lose its transparency. The legs are said not to"
+            <String CONTENT="No. 239. Would a person pay a compliment to"
                     HPOS="405"
                     VPOS="4319"
                     WIDTH="1461"
@@ -1332,7 +1360,7 @@
                     WIDTH="1453"
                     HEIGHT="114">
             <Shape><Polygon POINTS="743 4382 701 4382 658 4382 616 4382 574 4382 532 4382 489 4382 447 4382 405 4378 405 4437 401 4471 1845 4492 1854 4450 1849 4395 764 4382 743 4382"/></Shape>
-            <String CONTENT="hang like those of a dead body, but they will hang"
+            <String CONTENT="Mr. Strange, or not, was he to say that his genius"
                     HPOS="401"
                     VPOS="4378"
                     WIDTH="1453"
@@ -1347,7 +1375,7 @@
                     WIDTH="1453"
                     HEIGHT="93">
             <Shape><Polygon POINTS="1845 4450 1803 4450 1761 4450 1718 4450 1676 4450 1634 4450 1592 4450 1550 4450 1507 4450 1465 4450 1423 4450 1381 4450 1338 4446 1296 4446 1254 4446 1212 4446 1169 4446 1127 4446 1085 4446 1043 4446 1000 4446 958 4446 916 4446 886 4441 409 4441 409 4500 405 4526 1849 4534 1858 4509 1854 4446 1845 4441 1845 4450"/></Shape>
-            <String CONTENT="just as they are put. He is placed upin armour, as"
+            <String CONTENT="could not receive improvement in Italy. Quere,"
                     HPOS="405"
                     VPOS="4441"
                     WIDTH="1453"
@@ -1362,7 +1390,7 @@
                     WIDTH="1461"
                     HEIGHT="106">
             <Shape><Polygon POINTS="1461 4509 1419 4509 1376 4509 1334 4509 1292 4509 1250 4509 1207 4509 1165 4509 1123 4505 1081 4505 1038 4505 996 4505 954 4505 912 4505 870 4505 827 4505 785 4505 743 4505 701 4505 658 4505 616 4505 574 4505 532 4505 489 4505 447 4505 405 4500 405 4555 401 4598 1854 4606 1862 4572 1858 4513 1495 4509 1461 4509"/></Shape>
-            <String CONTENT="if it was just taken off his body; but that was left"
+            <String CONTENT="How comes the ostrich to be an emblem of justice?"
                     HPOS="401"
                     VPOS="4500"
                     WIDTH="1461"
@@ -1377,7 +1405,7 @@
                     WIDTH="1482"
                     HEIGHT="97">
             <Shape><Polygon POINTS="384 4631 380 4657 1854 4665 1862 4636 1858 4576 384 4568 384 4631"/></Shape>
-            <String CONTENT="in the field: neither could Achilles be said to have"
+            <String CONTENT="I ask for Information."
                     HPOS="380"
                     VPOS="4568"
                     WIDTH="1482"
@@ -1392,7 +1420,7 @@
                     WIDTH="1470"
                     HEIGHT="97">
             <Shape><Polygon POINTS="857 4636 815 4636 772 4636 730 4636 688 4636 646 4636 603 4636 561 4636 519 4636 477 4636 435 4636 392 4636 392 4686 388 4733 1854 4733 1858 4699 1854 4644 878 4636 857 4636"/></Shape>
-            <String CONTENT="his own in his tent, as it was his he had lent to Pa-"
+            <String CONTENT="No. 250. There may be less genius in this kind of"
                     HPOS="388"
                     VPOS="4636"
                     WIDTH="1470"
@@ -1407,7 +1435,7 @@
                     WIDTH="1457"
                     HEIGHT="101">
             <Shape><Polygon POINTS="401 4750 397 4783 1845 4800 1854 4762 1849 4703 401 4699 401 4750"/></Shape>
-            <String CONTENT="troclus. There wew no warriors at the siege of"
+            <String CONTENT="representation, than in a piece of painting; as there"
                     HPOS="397"
                     VPOS="4699"
                     WIDTH="1457"
@@ -1422,7 +1450,7 @@
                     WIDTH="1491"
                     HEIGHT="93">
             <Shape><Polygon POINTS="367 4817 363 4859 1849 4859 1854 4821 1854 4771 367 4766 367 4817"/></Shape>
-            <String CONTENT="Troy on horseback, though there were charioteers."
+            <String CONTENT="is less merit in making a wax doll, than in painting"
                     HPOS="363"
                     VPOS="4766"
                     WIDTH="1491"
@@ -1437,7 +1465,7 @@
                     WIDTH="1470"
                     HEIGHT="93">
             <Shape><Polygon POINTS="1110 4821 1068 4821 1026 4821 984 4821 941 4821 899 4821 857 4821 815 4821 772 4821 730 4821 688 4821 646 4821 603 4821 561 4821 519 4821 477 4821 435 4821 392 4821 392 4872 388 4910 1849 4914 1858 4885 1854 4826 1123 4821 1110 4821"/></Shape>
-            <String CONTENT="Quere, how far is it allowable for a painter, when he"
+            <String CONTENT="a little Jesus; but however, this basket fruit is"
                     HPOS="388"
                     VPOS="4821"
                     WIDTH="1470"
@@ -1452,7 +1480,7 @@
                     WIDTH="1457"
                     HEIGHT="98">
             <Shape><Polygon POINTS="392 4931 388 4973 1837 4978 1845 4948 1841 4897 392 4880 392 4931"/></Shape>
-            <String CONTENT="vies in the scene he undertakes with a poet, to de-"
+            <String CONTENT="enough to make one&#x27;s teeth water when one sees it;"
                     HPOS="388"
                     VPOS="4880"
                     WIDTH="1457"
@@ -1467,7 +1495,7 @@
                     WIDTH="1096"
                     HEIGHT="127">
             <Shape><Polygon POINTS="1457 4946 1393 4946 1330 4940 1267 4940 1203 4940 1140 4940 1077 4940 1013 4940 950 4940 886 4940 823 4933 760 4933 696 4933 633 4933 570 4933 506 4933 443 4933 380 4927 380 4997 373 5054 487 5054 500 5047 563 5047 627 5047 690 5047 753 5047 817 5047 880 5047 943 5047 1007 5047 1070 5047 1134 5047 1197 5054 1260 5054 1324 5054 1387 5054 1450 5054 1463 5054 1469 5003 1457 4946 1457 4946"/></Shape>
-            <String CONTENT="part from the description of the latter?"
+            <String CONTENT="possibly the lady might do so too."
                     HPOS="373"
                     VPOS="4927"
                     WIDTH="1096"
@@ -1482,7 +1510,7 @@
                     WIDTH="1398"
                     HEIGHT="114">
             <Shape><Polygon POINTS="456 5054 451 5087 1841 5117 1849 5070 1845 5016 456 5003 456 5054"/></Shape>
-            <String CONTENT="No. 239. Would a person pay a compliment to"
+            <String CONTENT="Of rhe EXHIBITION in MAIDEN-LANE."
                     HPOS="451"
                     VPOS="5003"
                     WIDTH="1398"
@@ -1497,7 +1525,7 @@
                     WIDTH="1469"
                     HEIGHT="114">
             <Shape><Polygon POINTS="553 5058 511 5058 468 5058 464 5054 384 5054 384 5113 380 5159 1841 5168 1849 5138 1845 5087 565 5058 553 5058"/></Shape>
-            <String CONTENT="Mr. Strange, or not, was he to say that his genius"
+            <String CONTENT="No. 6 . Is good."
                     HPOS="380"
                     VPOS="5054"
                     WIDTH="1469"
@@ -1512,7 +1540,7 @@
                     WIDTH="1436"
                     HEIGHT="109">
             <Shape><Polygon POINTS="388 5180 384 5210 1811 5239 1820 5197 1816 5146 388 5130 388 5180"/></Shape>
-            <String CONTENT="could not receive improvement in Italy. Quere,"
+            <String CONTENT="No. 35 to 47. All excellent; There is said to be"
                     HPOS="384"
                     VPOS="5130"
                     WIDTH="1436"
@@ -1527,7 +1555,7 @@
                     WIDTH="1470"
                     HEIGHT="127">
             <Shape><Polygon POINTS="1816 5197 1773 5197 1731 5197 1689 5197 1647 5197 1604 5197 1562 5197 1520 5197 1478 5197 1436 5193 1393 5193 1351 5193 1309 5193 1267 5193 1224 5193 1182 5193 1140 5193 1098 5189 1055 5189 1013 5189 971 5189 929 5189 886 5189 844 5189 802 5189 760 5189 734 5184 380 5184 380 5239 375 5277 1478 5311 1482 5311 1841 5290 1845 5256 1841 5193 1816 5189 1816 5197"/></Shape>
-            <String CONTENT="How comes the ostrich to be an emblem of justice?"
+            <String CONTENT="a sameness in the Chevalier&#x27;s paintings; so much"
                     HPOS="375"
                     VPOS="5184"
                     WIDTH="1470"
@@ -1542,7 +1570,7 @@
                     WIDTH="617"
                     HEIGHT="97">
             <Shape><Polygon POINTS="371 5307 371 5353 988 5353 988 5307 988 5256 371 5256 371 5307"/></Shape>
-            <String CONTENT="I ask for Information."
+            <String CONTENT="the better, if the sameness is to excel alike in all."
                     HPOS="371"
                     VPOS="5256"
                     WIDTH="617"
@@ -1557,7 +1585,7 @@
                     WIDTH="1411"
                     HEIGHT="97">
             <Shape><Polygon POINTS="937 5311 895 5311 853 5311 810 5311 768 5311 726 5311 684 5311 641 5311 599 5311 557 5311 515 5311 473 5311 430 5311 430 5366 426 5396 1828 5408 1837 5379 1833 5311 979 5311 937 5311"/></Shape>
-            <String CONTENT="No. 250. There may be less genius in this kind of"
+            <String CONTENT="No. 58, &amp;c. Mr. Collet seems to have a great"
                     HPOS="426"
                     VPOS="5311"
                     WIDTH="1411"
@@ -1572,175 +1600,11 @@
                     WIDTH="1470"
                     HEIGHT="114">
             <Shape><Polygon POINTS="713 5370 671 5370 629 5370 587 5370 544 5370 502 5370 460 5370 451 5362 375 5362 375 5425 371 5459 1833 5476 1841 5446 1837 5396 739 5370 713 5370"/></Shape>
-            <String CONTENT="representation, than in a piece of painting; as there"
+            <String CONTENT="deal of comic humour; engraving from these pic-"
                     HPOS="371"
                     VPOS="5362"
                     WIDTH="1470"
                     HEIGHT="114"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_9144bd2c"
-                    TAGREFS="LT1199"
-                    BASELINE="367 5484 1803 5510" 
-                    HPOS="363"
-                    VPOS="5421"
-                    WIDTH="1440"
-                    HEIGHT="131">
-            <Shape><Polygon POINTS="1000 5438 996 5434 844 5434 832 5434 789 5434 747 5434 705 5434 663 5429 620 5429 578 5429 536 5429 494 5429 451 5429 409 5429 405 5421 367 5421 367 5484 363 5522 1795 5552 1803 5510 1803 5459 1005 5438 1000 5438"/></Shape>
-            <String CONTENT="is less merit in making a wax doll, than in painting"
-                    HPOS="363"
-                    VPOS="5421"
-                    WIDTH="1440"
-                    HEIGHT="131"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_aa623b1b"
-                    TAGREFS="LT1199"
-                    BASELINE="367 5543 1837 5564" 
-                    HPOS="363"
-                    VPOS="5493"
-                    WIDTH="1474"
-                    HEIGHT="114">
-            <Shape><Polygon POINTS="1803 5510 1761 5510 1718 5510 1676 5510 1634 5510 1592 5510 1550 5505 1507 5505 1465 5505 1423 5505 1381 5505 1338 5505 1296 5501 1254 5501 1212 5501 1169 5501 1127 5501 1085 5501 1060 5497 367 5493 367 5543 363 5590 1828 5607 1837 5564 1833 5505 1803 5501 1803 5510"/></Shape>
-            <String CONTENT="a little Jesus; but however, this basket fruit is"
-                    HPOS="363"
-                    VPOS="5493"
-                    WIDTH="1474"
-                    HEIGHT="114"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_32e6cdad"
-                    TAGREFS="LT1199"
-                    BASELINE="367 5607 1833 5640" 
-                    HPOS="363"
-                    VPOS="5556"
-                    WIDTH="1470"
-                    HEIGHT="118">
-            <Shape><Polygon POINTS="367 5607 363 5653 1824 5674 1833 5640 1828 5590 367 5556 367 5607"/></Shape>
-            <String CONTENT="enough to make one&#x27;s teeth water when one sees it;"
-                    HPOS="363"
-                    VPOS="5556"
-                    WIDTH="1470"
-                    HEIGHT="118"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_c20ec144"
-                    TAGREFS="LT1199"
-                    BASELINE="363 5687 1288 5687" 
-                    HPOS="363"
-                    VPOS="5636"
-                    WIDTH="925"
-                    HEIGHT="110">
-            <Shape><Polygon POINTS="363 5746 1288 5746 1288 5687 1288 5636 363 5636 363 5687"/></Shape>
-            <String CONTENT="possibly the lady might do so too."
-                    HPOS="363"
-                    VPOS="5636"
-                    WIDTH="925"
-                    HEIGHT="110"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_520d1732"
-                    TAGREFS="LT1199"
-                    BASELINE="540 5763 1642 5780" 
-                    HPOS="536"
-                    VPOS="5700"
-                    WIDTH="1145"
-                    HEIGHT="143">
-            <Shape><Polygon POINTS="536 5809 1364 5843 1368 5843 1638 5818 1642 5780 1681 5704 540 5700 540 5763"/></Shape>
-            <String CONTENT="Of rhe EXHIBITION in MAIDEN-LANE."
-                    HPOS="536"
-                    VPOS="5700"
-                    WIDTH="1145"
-                    HEIGHT="143"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_7db662ac"
-                    TAGREFS="LT1199"
-                    BASELINE="435 5826 857 5830" 
-                    HPOS="430"
-                    VPOS="5716"
-                    WIDTH="427"
-                    HEIGHT="161">
-            <Shape><Polygon POINTS="549 5746 523 5725 523 5721 519 5721 515 5721 435 5716 435 5826 430 5847 515 5877 519 5877 523 5877 853 5860 857 5830 848 5780 587 5780 570 5767 561 5767"/></Shape>
-            <String CONTENT="No. 6 . Is good."
-                    HPOS="430"
-                    VPOS="5716"
-                    WIDTH="427"
-                    HEIGHT="161"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_e0faa71b"
-                    TAGREFS="LT1199"
-                    BASELINE="418 5890 1803 5902" 
-                    HPOS="413"
-                    VPOS="5826"
-                    WIDTH="1390"
-                    HEIGHT="118">
-            <Shape><Polygon POINTS="840 5830 798 5830 756 5830 713 5830 671 5830 629 5830 587 5830 544 5830 502 5830 460 5830 456 5826 418 5826 418 5890 413 5919 1795 5944 1803 5902 1799 5826 840 5826 840 5830"/></Shape>
-            <String CONTENT="No. 35 to 47. All excellent; There is said to be"
-                    HPOS="413"
-                    VPOS="5826"
-                    WIDTH="1390"
-                    HEIGHT="118"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_20674f54"
-                    TAGREFS="LT1199"
-                    BASELINE="354 5949 1820 5966" 
-                    HPOS="350"
-                    VPOS="5885"
-                    WIDTH="1470"
-                    HEIGHT="119">
-            <Shape><Polygon POINTS="1495 5902 1452 5902 1410 5902 1368 5902 1338 5898 1233 5898 1199 5898 1157 5898 1115 5898 1072 5898 1030 5898 988 5898 946 5898 903 5898 861 5894 819 5894 777 5894 734 5894 692 5894 650 5894 608 5894 565 5894 523 5894 481 5894 439 5894 435 5885 354 5885 354 5949 350 5987 1811 6004 1820 5966 1820 5906 1524 5902 1495 5902"/></Shape>
-            <String CONTENT="a sameness in the Chevalier&#x27;s paintings; so much"
-                    HPOS="350"
-                    VPOS="5885"
-                    WIDTH="1470"
-                    HEIGHT="119"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_95355de7"
-                    TAGREFS="LT1199"
-                    BASELINE="346 6016 1761 6029" 
-                    HPOS="342"
-                    VPOS="5961"
-                    WIDTH="1419"
-                    HEIGHT="106">
-            <Shape><Polygon POINTS="346 6016 342 6050 1752 6067 1761 6029 1757 5974 346 5961 346 6016"/></Shape>
-            <String CONTENT="the better, if the sameness is to excel alike in all."
-                    HPOS="342"
-                    VPOS="5961"
-                    WIDTH="1419"
-                    HEIGHT="106"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_9540bcf4"
-                    BASELINE="401 6080 1816 6096" 
-                    HPOS="397"
-                    VPOS="6025"
-                    WIDTH="1419"
-                    HEIGHT="109">
-            <Shape><Polygon POINTS="1752 6029 1710 6029 1668 6029 1626 6029 1583 6029 1541 6029 1499 6029 1457 6029 1414 6029 1372 6029 1330 6029 1313 6025 401 6025 401 6080 397 6105 1807 6134 1816 6096 1811 6029 1752 6025 1752 6029"/></Shape>
-            <String CONTENT="No. 58, &amp;c. Mr. Collet seems to have a great"
-                    HPOS="397"
-                    VPOS="6025"
-                    WIDTH="1419"
-                    HEIGHT="109"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_f3d5b3d3"
-                    TAGREFS="LT1199"
-                    BASELINE="349 6158 1803 6156" 
-                    HPOS="324"
-                    VPOS="6097"
-                    WIDTH="1479"
-                    HEIGHT="92">
-            <Shape><Polygon POINTS="324 6182 1799 6189 1803 6156 1799 6101 336 6097 327 6143"/></Shape>
-            <String CONTENT="deal of comic humour; engraving from these pic-"
-                    HPOS="324"
-                    VPOS="6097"
-                    WIDTH="1479"
-                    HEIGHT="92"
                     ></String>
           </TextLine>
           <TextLine ID="eSc_line_631c3864"
@@ -1751,7 +1615,7 @@
                     WIDTH="608"
                     HEIGHT="93">
             <Shape><Polygon POINTS="291 6882 291 6920 891 6916 895 6878 882 6827 287 6827 291 6882"/></Shape>
-            <String CONTENT="est after the mother."
+            <String CONTENT="little boys the eldest seems to take after the father,"
                     HPOS="287"
                     VPOS="6827"
                     WIDTH="608"
@@ -1766,11 +1630,175 @@
                     WIDTH="1453"
                     HEIGHT="131">
             <Shape><Polygon POINTS="848 6882 806 6882 764 6882 722 6882 679 6882 637 6882 625 6882 342 6890 346 6945 346 6983 1790 6983 1795 6928 1786 6873 1427 6852 1423 6852 1419 6852 1326 6878 1212 6856 1207 6856 895 6869 891 6882"/></Shape>
-            <String CONTENT="No. 158. If likeness is a merit in a portrait, Mr."
+            <String CONTENT="and look almost as heavy as himself; and the young-"
                     HPOS="342"
                     VPOS="6852"
                     WIDTH="1453"
                     HEIGHT="131"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_aa623b1b"
+                    TAGREFS="LT1199"
+                    BASELINE="367 5543 1837 5564" 
+                    HPOS="363"
+                    VPOS="5493"
+                    WIDTH="1474"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1803 5510 1761 5510 1718 5510 1676 5510 1634 5510 1592 5510 1550 5505 1507 5505 1465 5505 1423 5505 1381 5505 1338 5505 1296 5501 1254 5501 1212 5501 1169 5501 1127 5501 1085 5501 1060 5497 367 5493 367 5543 363 5590 1828 5607 1837 5564 1833 5505 1803 5501 1803 5510"/></Shape>
+            <String CONTENT="est after the mother."
+                    HPOS="363"
+                    VPOS="5493"
+                    WIDTH="1474"
+                    HEIGHT="114"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_32e6cdad"
+                    TAGREFS="LT1199"
+                    BASELINE="367 5607 1833 5640" 
+                    HPOS="363"
+                    VPOS="5556"
+                    WIDTH="1470"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="367 5607 363 5653 1824 5674 1833 5640 1828 5590 367 5556 367 5607"/></Shape>
+            <String CONTENT="No. 158. If likeness is a merit in a portrait, Mr."
+                    HPOS="363"
+                    VPOS="5556"
+                    WIDTH="1470"
+                    HEIGHT="118"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c20ec144"
+                    TAGREFS="LT1199"
+                    BASELINE="363 5687 1288 5687" 
+                    HPOS="363"
+                    VPOS="5636"
+                    WIDTH="925"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="363 5746 1288 5746 1288 5687 1288 5636 363 5636 363 5687"/></Shape>
+            <String CONTENT="Atkinson of Greenwich can shew how well the pain-"
+                    HPOS="363"
+                    VPOS="5636"
+                    WIDTH="925"
+                    HEIGHT="110"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_520d1732"
+                    TAGREFS="LT1199"
+                    BASELINE="540 5763 1642 5780" 
+                    HPOS="536"
+                    VPOS="5700"
+                    WIDTH="1145"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="536 5809 1364 5843 1368 5843 1638 5818 1642 5780 1681 5704 540 5700 540 5763"/></Shape>
+            <String CONTENT="ter has succeeded. Aut erasmus aut diabolus, either"
+                    HPOS="536"
+                    VPOS="5700"
+                    WIDTH="1145"
+                    HEIGHT="143"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7db662ac"
+                    TAGREFS="LT1199"
+                    BASELINE="435 5826 857 5830" 
+                    HPOS="430"
+                    VPOS="5716"
+                    WIDTH="427"
+                    HEIGHT="161">
+            <Shape><Polygon POINTS="549 5746 523 5725 523 5721 519 5721 515 5721 435 5716 435 5826 430 5847 515 5877 519 5877 523 5877 853 5860 857 5830 848 5780 587 5780 570 5767 561 5767"/></Shape>
+            <String CONTENT="Dunce, Scotus, or a school-master."
+                    HPOS="430"
+                    VPOS="5716"
+                    WIDTH="427"
+                    HEIGHT="161"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9144bd2c"
+                    TAGREFS="LT1199"
+                    BASELINE="367 5484 1803 5510" 
+                    HPOS="363"
+                    VPOS="5421"
+                    WIDTH="1440"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="1000 5438 996 5434 844 5434 832 5434 789 5434 747 5434 705 5434 663 5429 620 5429 578 5429 536 5429 494 5429 451 5429 409 5429 405 5421 367 5421 367 5484 363 5522 1795 5552 1803 5510 1803 5459 1005 5438 1000 5438"/></Shape>
+            <String CONTENT="A fruit piece of two peaches and a nectarine upon"
+                    HPOS="363"
+                    VPOS="5421"
+                    WIDTH="1440"
+                    HEIGHT="131"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e0faa71b"
+                    TAGREFS="LT1199"
+                    BASELINE="418 5890 1803 5902" 
+                    HPOS="413"
+                    VPOS="5826"
+                    WIDTH="1390"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="840 5830 798 5830 756 5830 713 5830 671 5830 629 5830 587 5830 544 5830 502 5830 460 5830 456 5826 418 5826 418 5890 413 5919 1795 5944 1803 5902 1799 5826 840 5826 840 5830"/></Shape>
+            <String CONTENT="a real pewter plate, is most admirable. There for"
+                    HPOS="413"
+                    VPOS="5826"
+                    WIDTH="1390"
+                    HEIGHT="118"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_20674f54"
+                    TAGREFS="LT1199"
+                    BASELINE="354 5949 1820 5966" 
+                    HPOS="350"
+                    VPOS="5885"
+                    WIDTH="1470"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="1495 5902 1452 5902 1410 5902 1368 5902 1338 5898 1233 5898 1199 5898 1157 5898 1115 5898 1072 5898 1030 5898 988 5898 946 5898 903 5898 861 5894 819 5894 777 5894 734 5894 692 5894 650 5894 608 5894 565 5894 523 5894 481 5894 439 5894 435 5885 354 5885 354 5949 350 5987 1811 6004 1820 5966 1820 5906 1524 5902 1495 5902"/></Shape>
+            <String CONTENT="no number to it as I could see; but the artist need"
+                    HPOS="350"
+                    VPOS="5885"
+                    WIDTH="1470"
+                    HEIGHT="119"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_95355de7"
+                    TAGREFS="LT1199"
+                    BASELINE="346 6016 1761 6029" 
+                    HPOS="342"
+                    VPOS="5961"
+                    WIDTH="1419"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="346 6016 342 6050 1752 6067 1761 6029 1757 5974 346 5961 346 6016"/></Shape>
+            <String CONTENT="not have been ashamed to have published his name"
+                    HPOS="342"
+                    VPOS="5961"
+                    WIDTH="1419"
+                    HEIGHT="106"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9540bcf4"
+                    BASELINE="401 6080 1816 6096" 
+                    HPOS="397"
+                    VPOS="6025"
+                    WIDTH="1419"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1752 6029 1710 6029 1668 6029 1626 6029 1583 6029 1541 6029 1499 6029 1457 6029 1414 6029 1372 6029 1330 6029 1313 6025 401 6025 401 6080 397 6105 1807 6134 1816 6096 1811 6029 1752 6025 1752 6029"/></Shape>
+            <String CONTENT="nor the socierty to have numbered it in this cata-"
+                    HPOS="397"
+                    VPOS="6025"
+                    WIDTH="1419"
+                    HEIGHT="109"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f3d5b3d3"
+                    TAGREFS="LT1199"
+                    BASELINE="349 6158 1803 6156" 
+                    HPOS="324"
+                    VPOS="6097"
+                    WIDTH="1479"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="324 6182 1799 6189 1803 6156 1799 6101 336 6097 327 6143"/></Shape>
+            <String CONTENT="logue."
+                    HPOS="324"
+                    VPOS="6097"
+                    WIDTH="1479"
+                    HEIGHT="92"
                     ></String>
           </TextLine>
           <TextLine ID="eSc_line_14bdefe9"
@@ -1781,7 +1809,7 @@
                     WIDTH="1520"
                     HEIGHT="110">
             <Shape><Polygon POINTS="274 7008 274 7059 1786 7046 1790 7000 1782 6954 270 6949 274 7008"/></Shape>
-            <String CONTENT="Atkinson of Greenwich can shew how well the pain-"
+            <String CONTENT="T-o-"
                     HPOS="270"
                     VPOS="6949"
                     WIDTH="1520"
@@ -1796,7 +1824,7 @@
                     WIDTH="1529"
                     HEIGHT="109">
             <Shape><Polygon POINTS="278 7084 278 7122 1799 7114 1803 7068 1790 7013 274 7030 278 7084"/></Shape>
-            <String CONTENT="ter has succeeded. Aut erasmus aut diabolus, either"
+            <String CONTENT=""
                     HPOS="274"
                     VPOS="7013"
                     WIDTH="1529"
@@ -1811,7 +1839,7 @@
                     WIDTH="1052"
                     HEIGHT="118">
             <Shape><Polygon POINTS="266 7160 266 7198 1313 7186 1313 7135 1300 7080 261 7101 266 7160"/></Shape>
-            <String CONTENT="Dunce, Scotus, or a school-master."
+            <String CONTENT=""
                     HPOS="261"
                     VPOS="7080"
                     WIDTH="1052"
