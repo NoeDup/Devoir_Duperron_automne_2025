@@ -1,5 +1,4 @@
-# Devoir Certificat en Humanités numériques (UNIGE)
-## Cours "Bibliothèques numériques, I. Gestion de projet (conception, partage, archivage)", Automne 2025, par Simon Gabay
+# La presse devant les oeuvres: les expositions de de 1762 et 1765 à Londres
 
 - Auteur: Noémi Duperron
 - Date: Printemps 2026
